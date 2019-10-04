@@ -5,4 +5,3 @@ These notebooks can be run online on [binder](https://mybinder.org). Just click 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcdeoliveira/notebooks/master)
 
-# 
