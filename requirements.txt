@@ -3,3 +3,6 @@ matplotlib
 scipy
 sndfile
 librosa
+tensorflow
+keras
+scikit-image
