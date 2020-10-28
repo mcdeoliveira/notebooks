@@ -1,3 +1,6 @@
 libsndfile1
 libsndfile1-dev
 ffmpeg
+libpng-dev
+libjpeg-dev
+libtiff-dev
